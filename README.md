@@ -3,6 +3,10 @@
 Desarrollador web con especialización en **Frontend con Angular**, con experiencia sólida en **backend, bases de datos y administración de servidores**.  
 Capaz de diseñar, desarrollar y desplegar **aplicaciones web completas**, cubriendo todo el ciclo de desarrollo.
 
+📫 **Contacto**
+- 📧 Email: [flch3110@gmail.com](mailto:flch3110@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/felix-cicilia-931b54191](https://www.linkedin.com/in/felix-cicilia-931b54191/)
+
 ---
 
 ## 🔧 Stack visual
@@ -26,7 +30,6 @@ Capaz de diseñar, desarrollar y desplegar **aplicaciones web completas**, cubri
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
 
 ---
 
